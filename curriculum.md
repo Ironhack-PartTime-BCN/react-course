@@ -6,8 +6,15 @@
 
 - Retrospective
 - Review: SPA frameworks (history) & RestAPI
+- Client-Server Architecture (Frontend - Backend - SPA) 
 - React Intro
 - JSX Elements
+  - What is JSX
+  - Embedding Expressions in JSX (ReactDOM.render)
+  - compilation JSX
+  - rendering elements
+  - Virtual DOM
+- Components
 - Props
   - props.children
 - State
@@ -16,8 +23,10 @@
   
 ## Day 2
 
-- List & Keys
+- Handling Events
 - Conditional Renders
+- List & Keys
+- Fragments
 - Forms
   - Controlled and Uncontrolled Component
 
@@ -39,10 +48,22 @@
 ## Day 4
 
 - Building and API
+  - methods GET, POST, PUT, DELETE, PATCH
+  - create and API for publishing cars
 - integrating react App
 
 
 ## Day 5
 
 - authentication
+- PropTypes
+- Context API
 - file upload
+
+
+## Adavanced
+
+- Introduction Redux
+- Introduction MobX
+- HOC
+- Render Props Callback
