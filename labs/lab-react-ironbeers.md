@@ -5,7 +5,8 @@
 
 ## Purpose:
 
-
+- work with external API
+- Organise differents routes/views
 
 ## What they do in the exercise:
 

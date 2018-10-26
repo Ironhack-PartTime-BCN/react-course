@@ -1,7 +1,7 @@
-# React Components & Bulma
+# Cards-Gradients
 
 ## Link:
-  - https://github.com/ironhack-labs/lab-bulma-components
+  - 
 
 ## Purpose:
 
@@ -9,8 +9,6 @@
 - so basically is convert the bulma components in react components
 
 ## What they do in the exercise:
-
-
 
 ## Good practices:
 
