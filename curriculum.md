@@ -6,18 +6,19 @@
 
 - Retrospective
 - Review: SPA frameworks (history) & RestAPI
-- Client-Server Architecture (Frontend - Backend - SPA) 
-- create-react-app - LU [Link](http://learn.ironhack.com/#/learning_unit/6554)
+- Client-Server Architecture (Frontend - Backend - SPA)
+- create-react-app - LU [Link](http://learn.ironhack.com/#/learning_unit/6554) 30'
 - webpack
 - React Intro - LU [Link](http://learn.ironhack.com/#/learning_unit/6548)
 
-- JSX Elements - LU [Link](http://learn.ironhack.com/#/learning_unit/6550)
+- JSX Elements - LU [Link](http://learn.ironhack.com/#/learning_unit/6550) 1h 30'
   - What is JSX
   - Embedding Expressions in JSX (ReactDOM.render)
   - compilation JSX
   - rendering elements
   - Virtual DOM
 - Components
+- How to import images with `cra`
 - (DE) lab-react-landing-page [Link](https://github.com/ironhack-labs/lab-hello-ironhack)
 
 

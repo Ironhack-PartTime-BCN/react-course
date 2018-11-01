@@ -42,6 +42,13 @@ class CountClicks extends React.Component {
     }))
   }
 
+  onButtonClick = () => {
+    const prevState = this.state.clicks
+    this.setState({
+      clicks: prevState + 1
+    })
+  }
+
   render() {
     return (
       <div>
