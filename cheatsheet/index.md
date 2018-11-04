@@ -1,8 +1,7 @@
 # React Cheatsheet
 
 ## Index
+- [Setup](./react-setup.md)
 - [React](./react.md)
 - [React-Router](./react-router.md)
-
-
-test
+- [Backend Setup](./backend-setup.md)
